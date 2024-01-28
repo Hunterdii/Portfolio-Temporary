@@ -25,7 +25,7 @@ Check out the live demo on [CodePen](https://codepen.io/Hunterdii/pen/eYXydKr).
 
 ## Features
 
-- Home section introducing Het Patel.
+- Home section introducing MySelf.
 - About Me section with personal information, skills, education, and experiences.
 - Services section highlighting the services I provide.
 - Contact Me section with contact information and a form to send messages.
@@ -74,4 +74,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Explore, enjoy, and share your love for luxury cars through this Cars Landing Page! If you encounter any issues or have suggestions, please create an [issue](https://github.com/your-username/Hunterdii/issues). 
 
-# ⭐ Star this repository if you find it helpful or intriguing! ⭐
+# ⭐Star this repository if you find it helpful or intriguing!⭐
