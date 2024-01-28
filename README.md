@@ -47,7 +47,7 @@ To get a copy of the project up and running on your local machine, follow these 
 
 1. Clone the repository:
  ```
-git clone https://hunterdii.github.io/My-Portfolio/
+git clone https://hunterdii.github.io/My-Portfolio-Level-1Temp/
 ```
 
 2. Open the project directory: `cd My-portfolio-repo`
@@ -62,7 +62,7 @@ Feel free to customize this portfolio template to make it your own. Update the c
 If you'd like to contribute to this project, please follow these steps:
 
 1. Fork the repository on GitHub.
-2. Clone your fork locally: `git clone https://hunterdii.github.io/My-Portfolio/.git`
+2. Clone your fork locally: `git clone https://hunterdii.github.io/My-Portfolio-Level-1Temp/.git`
 3. Create a new branch for your changes: `git checkout -b feature/new-feature`
 4. Make your changes and commit them: `git commit -m 'Add new feature'`
 5. Push your changes to your fork: `git push origin feature/new-feature`
